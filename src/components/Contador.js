@@ -3,16 +3,20 @@
 class Contador extends React.Component{    
     constructor(props){
         super(props);
+        
         this.state = {
-            contador: props.valorInicial
+            clicks: props.valorInicial
         }
     }
+
     render(){
        return (
         <div>   
-            <h1>Você clicou:{this.state.contador} </h1>
-            <button onClick={() => this.setState({contador: this.state.contador + 1})}>+</button> 
-           
+            <h1>Escolha um valor</h1>
+            <h2>{this.state.clicks}</h2>
+            <button onClick={() => this.setState({clicks: this.state.clicks - 1})}> - </button>   
+            <span> </span>   
+            <button onClick={() => this.setState({clicks: this.state.clicks + 1})}> + </button>        
         </div>
        )
     }
