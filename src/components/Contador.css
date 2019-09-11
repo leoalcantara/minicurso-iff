@@ -1,0 +1,13 @@
+﻿.Contador{
+    display: block;
+    text-align: center;
+    margin: 5% 15% 5% 15%;
+    border: 2px solid black;
+    padding-bottom: 15px;
+}
+
+button{
+    width: 30px;
+    height: 25px;
+    padding: 5px;
+}
