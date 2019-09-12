@@ -5,7 +5,8 @@ import Contador from './Contador';
 function App() {
   return (
     <div className="App">
-        <Contador valorInicial={0} />            
+        <Contador valorInicial={0} />   
+            
     </div>
   );
 }
