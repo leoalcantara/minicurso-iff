@@ -15,6 +15,6 @@ Roteiro
 - Estrutura de Arquivos
 - Criando meu primeiro componente
 
-
+![hiclipart com-id_mpcgx](https://user-images.githubusercontent.com/10419679/64784596-d6360b00-d540-11e9-8f80-8fac4d06ea40.png)
 
 
