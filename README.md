@@ -2,6 +2,8 @@
 <h1>Minicurso - Criando uma aplicação miojo (em 3 minutos) com ReactJS</h1>
 <p>Minicurso ministrado na <em> VIII Semana Acadêmica </em> do <em>Instituto Federal Fluminense Campus Itaperuna-RJ</em>, nos dias 10 e 12 de setembro de 2019, com o objetivo de apresentar ao alunos dos cursos técnico em Informática e Bacharel em Sistemas de Informação uma introdução a biblioteca criada e utilizada pelo Facebook para desenvolvimento de interfaces</p>
 
+<p align="center"><img src="https://user-images.githubusercontent.com/10419679/64832585-ebe31900-d5b0-11e9-90a1-061c4ae52bc8.PNG" heigth=400" width="400" ></p>
+
 Roteiro 
 - Conhecendo o React
 - JSX
