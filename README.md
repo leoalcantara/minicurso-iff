@@ -1,3 +1,4 @@
+<img src="https://img.shields.io/static/v1?label=reactjs&message=framework&color=blue&style=for-the-badge&logo=REACT"/>
 <p align="center"><img src="https://user-images.githubusercontent.com/10419679/64785130-121da000-d542-11e9-9842-b102cadf6974.png" heigth="150" width="150"/></p>
 <h1>Minicurso - Criando uma aplicação miojo (em 3 minutos) com ReactJS</h1>
 <p>Minicurso ministrado na <em> VIII Semana Acadêmica </em> do <em>Instituto Federal Fluminense Campus Itaperuna-RJ</em>, nos dias 10 e 12 de setembro de 2019, com o objetivo de apresentar ao alunos dos cursos técnico em Informática e Bacharel em Sistemas de Informação uma introdução a biblioteca criada e utilizada pelo Facebook para desenvolvimento de interfaces</p>
